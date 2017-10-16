@@ -105,3 +105,8 @@ com\rbc\midtier\jaxws\GetHelloWorldAsStringResponse.java
 ---
 
 wsgen -verbose -cp ./target/classes com.rbc.midtier.proposalCalculator.ProposalInquiryWSService -s ./src/main/java com/rbc/midtier/proposalCalculator/jaxws
+
+---
+IntelliJ: Working on multiple projects
+
+https://stackoverflow.com/questions/8774024/intellij-working-on-multiple-projects
