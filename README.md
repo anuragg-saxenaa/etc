@@ -72,9 +72,12 @@ http://jsonformatter.org/
 
 
 ---
--- The best link--
+-- The best link--mavem local install
 
 http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
+
+eg:
+mvn install:install-file -Dfile=C:\Anurag\Development\share-from-B\ojdbc-7.0.0.0.jar -DgroupId=oracle -DartifactId=ojdbc -Dversion=7.0.0.0 -Dpackaging=jar
 
 --
 MVN sonar
