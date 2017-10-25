@@ -113,3 +113,12 @@ wsgen -verbose -cp ./target/classes com.rbc.midtier.proposalCalculator.ProposalI
 IntelliJ: Working on multiple projects
 
 https://stackoverflow.com/questions/8774024/intellij-working-on-multiple-projects
+
+---free intelli U activation lincense server
+How to use?
+
+   1) open the activation window
+    2)choose the Activate new license with License server
+    3)fill the blank with http://xidea.online
+    4)NO SLASH ("/") AT THE END OF THE URL
+    5)press OK
