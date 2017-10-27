@@ -122,3 +122,9 @@ How to use?
     3)fill the blank with http://xidea.online
     4)NO SLASH ("/") AT THE END OF THE URL
     5)press OK
+    
+    #list pf license servers
+http://xidea.online
+http://intellij.mandroid.cn/
+http://idea.imsxm.com/
+http://idea.iteblog.com/key.php
