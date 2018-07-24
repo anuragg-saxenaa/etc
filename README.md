@@ -128,3 +128,7 @@ http://xidea.online
 http://intellij.mandroid.cn/
 http://idea.imsxm.com/
 http://idea.iteblog.com/key.php
+
+-
+downloadable
+https://laucyun.com/jetbrains/2018.6.21
