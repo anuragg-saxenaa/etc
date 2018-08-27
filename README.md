@@ -131,4 +131,4 @@ http://idea.iteblog.com/key.php
 
 -
 downloadable
-https://laucyun.com/jetbrains/2018.6.21
+http://jetbrains.license.laucyun.com/#how_to_use_crack
