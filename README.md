@@ -56,6 +56,9 @@ openssl genrsa -out <appName>.<domainName>.key 2048
 
 openssl req -config C:\RBFG\WXF\openssl.cnf -out <appName>.<domainName>.csr -key <appName>.<domainName>.key -new -sha256 -nodes -subj "/C=CA/CN=<appName>.<domainName>/O=<companyName>/OU=Internal/OU=Devices/OU=NDevices"
 	
+to convert cert to different format	
+https://www.sslshopper.com/ssl-converter.html	
+	
 -----------------
 
 --jMeter command 
